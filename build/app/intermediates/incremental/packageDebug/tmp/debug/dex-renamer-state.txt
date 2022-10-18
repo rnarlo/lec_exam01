@@ -1,0 +1,4 @@
+#Tue Oct 18 13:49:40 PST 2022
+base.0=/Users/chr1s/Desktop/CMSC 23/Lec/lecture_exam01/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

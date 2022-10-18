@@ -1,0 +1,30 @@
+name: lecture_exam01
+description: This is my code for the first lecture exam!
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/pics1.jpg
+    - assets/pics2.jpg
+    - assets/pics3.jpg
+    - assets/pics4.jpg
+    - assets/pics5.jpg
+    - assets/pics6.jpg
